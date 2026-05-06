@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartBill POS System - Comprehensive Documentation
 
 **Version:** 1.0.0 | **Status:** Production Ready | **Last Updated:** May 2026
@@ -996,3 +997,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ---
 
 **Last Updated:** May 2026 | **Version:** 1.0.0 | **Maintained By:** SmartBill Team
+=======
+# Smart-Bill-POS-System
+>>>>>>> 55290941d041f93c35b23c8f5f3a7ba7822e5992
